@@ -354,7 +354,7 @@ md = {
 
     noUiSlider.create(slider2, {
       start: [0],
-      step: 100,
+      step: 1,
       tooltips: true,
       connect: [true, false],
       range: {
@@ -374,7 +374,7 @@ md = {
 
     noUiSlider.create(slider3, {
       start: [500],
-      step: 100,
+      step: 1,
       tooltips: true,
       connect: [true, false],
       range: {
